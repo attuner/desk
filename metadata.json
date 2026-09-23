@@ -1,0 +1,6 @@
+{
+  "name": "WebDesktop OS",
+  "description": "A serverless cloud web desktop with Google Drive and Sheets storage, custom frontend app installer, and app package manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
